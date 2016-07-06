@@ -1,5 +1,5 @@
 /**
- * simplemde v1.10.1
+ * simplemde v1.11.2
  * Copyright Next Step Webs, Inc.
  * @link https://github.com/NextStepWebs/simplemde-markdown-editor
  * @license MIT
@@ -678,5 +678,5 @@ span.CodeMirror-selectedtext { background: none; }
     opacity: .5;
 }
 .CodeMirror .cm-spell-error:not(.cm-url):not(.cm-comment):not(.cm-tag):not(.cm-word) {
-	 background: rgba(255, 0, 0, .15);
+    background: rgba(255, 0, 0, .15);
 }
